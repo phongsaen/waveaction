@@ -1,5 +1,5 @@
 # waveaction.github.io
-**robosuite** codes accompanying with the paper "On using wave variables for robot imitation learning"
+**Codes** codes accompanying with the paper "On using wave variables for robot imitation learning"
 
 # Installation
 1. Clone the robosuite repository
