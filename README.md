@@ -28,3 +28,22 @@ Codes for implementing the **WaveAction** control architecture in the paper **"O
    $ cd robomimic
    $ pip install -e .
    ```
+
+# Running
+1. Perform the demonstration using wave teleoperation framework.
+   ```sh 
+   $ cd robomimic/robomimic/script
+   $ python collect_human_demonstrations.py --device spacemouse
+   ```
+2. Extract state and observation dataset.
+   ```sh
+   $ python dataset_states_to_obs.py --dataset <path_to_folder/demo.hdf5> --output_name low_dim.hdf5 --done_mode 2
+   ```
+3. Train the network.
+   ```sh
+   $ python train.py --config <path_to_folder/bc_transformer.json> --dataset <path_to_folder/low_dim.hdf5>
+   ```
+4. Test the network.
+   ```sh
+   $ python run_trained_agent.py --agent <path_to_folder/saved_model_file.pth> --n_rollouts 50 --horizon <#_network_steps_to_run> --seed <random_seed_number>
+   ```
