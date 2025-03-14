@@ -2,7 +2,7 @@
 Codes for implementing the **WaveAction** control architecture in the paper **"On using wave variables for robot imitation learning"**
 
 # Installation
-1. Clone the robosuite repository
+1. Clone this repository which contains the modified robosuite and robomimic repos.
    ```sh 
    $ git clone https://github.com/ARISE-Initiative/robosuite.git
    $ cd robosuite
