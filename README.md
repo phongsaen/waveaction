@@ -45,5 +45,7 @@ Codes for implementing the **WaveAction** control architecture in the paper **"O
    ```
 4. Test the network.
    ```sh
-   $ python run_trained_agent.py --agent <path_to_folder/saved_model_file.pth> --n_rollouts 50 --horizon <#_network_steps_to_run> --seed <random_seed_number>
+   $ python run_trained_agent.py --agent <path_to_folder/saved_model_file.pth> --n_rollouts 50 --horizon <network_steps_to_run> --seed <random_seed_number>
    ```
+
+# Video clips
