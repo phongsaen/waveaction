@@ -1,5 +1,5 @@
 # WaveAction
-**Codes** codes accompanying with the paper "On using wave variables for robot imitation learning"
+Codes for implementing the **WaveAction** control architecture in the paper **"On using wave variables for robot imitation learning"**
 
 # Installation
 1. Clone the robosuite repository
