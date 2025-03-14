@@ -49,4 +49,4 @@ Codes for implementing the **WaveAction** control architecture in the paper **"O
    ```
 
 # Video clips
-1. 🎥 [Watch the video](https://github.com/phongsaen/waveaction/videos/wipe_pos_500.mp4)
+1. 🎥 [Watch the video](https://github.com/phongsaen/waveaction/tree/main/videos/wipe_pos_500.mp4)
