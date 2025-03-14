@@ -4,8 +4,7 @@ Codes for implementing the **WaveAction** control architecture in the paper **"O
 # Installation
 1. Clone this repository which contains the modified robosuite and robomimic repos.
    ```sh 
-   $ git clone https://github.com/ARISE-Initiative/robosuite.git
-   $ cd robosuite
+   $ git clone https://github.com/phongsaen/waveaction.git
    ```
 
 2. Install the base requirements with
