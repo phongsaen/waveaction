@@ -65,3 +65,17 @@ Codes for implementing the **WaveAction** control architecture in the paper **"O
 14. [WA for wiping a table](https://github.com/phongsaen/waveaction/tree/main/videos/wipe_wave.mp4) (#dataset = 500 demonstrations, #training = 250 epochs)
 15. [WA_OSC for wiping a table](https://github.com/phongsaen/waveaction/tree/main/videos/wipe_wave_osc.mp4) (#dataset = 500 demonstrations, #training = 300 epochs)
 16. [WA_INT for wiping a table](https://github.com/phongsaen/waveaction/tree/main/videos/wipe_wave_int.mp4) (#dataset = 500 demonstrations, #training = 200 epochs)
+
+
+## Citation
+
+Please cite [this paper](https://arxiv.org/abs/2108.03298) if you find it useful:
+
+```bibtex
+@inproceedings{waveaction2025,
+  title={On using wave variables for robot imitation learning},
+  author={Phongsaen Pitakwatchara},
+  booktitle={Conference on Robot Learning (CoRL)},
+  year={2025}
+}
+```
