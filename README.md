@@ -49,5 +49,6 @@ Codes for implementing the **WaveAction** control architecture in the paper **"O
    ```
 
 # Video clips
+1. [MA for lifting a cube](https://github.com/phongsaen/waveaction/tree/main/videos/lift_pos.mp4) (#dataset = 200 demonstrations, #training = 100 epochs)
 1. [MA for wiping](https://github.com/phongsaen/waveaction/tree/main/videos/wipe_pos.mp4)
 2. [WA for wiping](https://github.com/phongsaen/waveaction/tree/main/videos/wipe_wave.mp4)
