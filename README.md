@@ -1,5 +1,5 @@
 # WaveAction
-Codes for implementing the **WaveAction** control architecture in the paper **"On using wave variables for robot imitation learning"**
+Codes for implementing the **WaveAction** control architecture in the paper **["On using wave variables for robot imitation learning"](https://arxiv.org/abs/xxxx.xxxx)**
 
 # Installation
 1. Clone this repository which contains the modified robosuite and robomimic repos.
@@ -69,13 +69,19 @@ Codes for implementing the **WaveAction** control architecture in the paper **"O
 
 ## Citation
 
-Please cite [this paper](https://arxiv.org/abs/2108.03298) if you find it useful:
+Please cite [this paper](https://arxiv.org/abs/xxxx.xxxx) if you find it useful:
 
 ```bibtex
 @inproceedings{waveaction2025,
   title={On using wave variables for robot imitation learning},
   author={Phongsaen Pitakwatchara},
-  booktitle={Conference on Robot Learning (CoRL)},
+  eprintclass={arXiv},
+  eprint={xxxx.xxxx},
+  eprinttype={cs.Robotics},
+  date={2025-03-18},
+  version={1},
+  url={https://arxiv.org/abs/xxxx.xxxx},
+  doi={10.48550/arXiv.xxxx.xxxx}
   year={2025}
 }
 ```
