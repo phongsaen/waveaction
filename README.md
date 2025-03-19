@@ -1,5 +1,5 @@
 # WaveAction
-Codes for implementing the **WaveAction** control architecture in the paper **["On using wave variables for robot imitation learning"](https://github.com/phongsaen/waveaction/SMC2025.pdf)**
+Codes for implementing the **WaveAction** control architecture in the paper **["On using wave variables for robot imitation learning"](https://github.com/phongsaen/waveaction/blob/main/SMC2025.pdf)**
 
 # Installation
 1. Clone this repository which contains the modified robosuite and robomimic repos.
@@ -69,7 +69,7 @@ Codes for implementing the **WaveAction** control architecture in the paper **["
 
 ## Citation
 
-Please cite [this paper](https://github.com/phongsaen/waveaction/SMC2025.pdf) if you find it useful:
+Please cite [this paper](https://github.com/phongsaen/waveaction/blob/main/SMC2025.pdf) if you find it useful:
 
 ```bibtex
 @inproceedings{waveaction2025,
